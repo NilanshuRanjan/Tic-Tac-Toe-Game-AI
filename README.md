@@ -1,6 +1,6 @@
 # 🧠 Tic Tac Toe with AI | Pygame 🎮
 
-![Python application](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/python-app.yml/badge.svg)
+![Python application](https://github.com/NilanshuRanjan/Tic-Tac-Toe-Game-with-AI-/actions/workflows/python-app.yml/badge.svg)
 
 Welcome to a modern take on the classic **Tic Tac Toe** game!  
 Built using **Python** and **Pygame**, this game features:
