@@ -110,3 +110,4 @@ Feel free to submit issues, feedback, or improvements.
 ## 📜 License
 
 This project is open-source under the [MIT License](LICENSE).
+
